@@ -84,4 +84,4 @@ Though this app is ready for use today, the following are things we would love t
 - Client facing verison 
 - Event Builder as an expanded stand-alone-tool for customers/staff, with an emphasis on usability for non technical users.
 - More Q3 Commands
-- Automatic copying of links to the clipboard in the "links" tab, if desired by p
+- Automatic copying of links to the clipboard in the "links" tab, if desired by users.
